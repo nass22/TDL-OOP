@@ -1,0 +1,19 @@
+body{
+    background-color:#F05454;
+}
+
+#bgInput{
+    background-color: #F05454;
+    height: 100%;
+    width: auto;
+}
+
+.contenairDiv{
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    text-align: center;
+    padding: 10px;
+}
